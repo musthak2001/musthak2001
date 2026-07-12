@@ -114,4 +114,59 @@
 
 ---
 
-# 🎯 Areas of Interest
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=musthak2001&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=musthak2001&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musthak2001&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 📌 Featured Skills
+
+| Area | Technologies |
+|---|---|
+| AI Development | LangChain, LangGraph, RAG, OpenAI API |
+| ML Engineering | TensorFlow, Scikit-learn, XGBoost |
+| Computer Vision | YOLOv8, Image Processing |
+| Backend | FastAPI, Python |
+| Deployment | Docker, Kubernetes, MLflow |
+| Data | Pandas, NumPy, Visualization |
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/musthak2001">
+<img src="https://img.shields.io/badge/GitHub-musthak2001-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/musthak-ahamed/">
+<img src="https://img.shields.io/badge/LinkedIn-Musthak%20Ahamed-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+
+---
+
+<p align="center">
+
+⭐ <b>Building intelligent solutions with AI and technology.</b> 🚀
+
+</p>
