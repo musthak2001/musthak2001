@@ -65,16 +65,7 @@ Currently exploring and developing solutions with **LLMs, AI Agents, RAG systems
 
 ---
 
----
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
