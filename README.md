@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Musthak Ahamed
+#  Hi, I'm Musthak Ahamed
 
 <p align="left">
   <a href="https://www.linkedin.com/in/musthak-ahamed/">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 I am an **Information and Communication Technology (ICT) Undergraduate** deeply passionate about the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering**. 
 
