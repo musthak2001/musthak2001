@@ -1,217 +1,92 @@
 # 👋 Hi, I'm Musthak Ahamed
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 **ICT Undergraduate** | 🤖 **AI & Machine Learning Enthusiast** | 💻 **Software Developer**
+
+I am passionate about building **intelligent, scalable, and data-driven applications** using **Artificial Intelligence, Generative AI, Machine Learning, and Software Engineering principles**.
+
+Currently exploring and developing solutions with **LLMs, AI Agents, RAG systems, Computer Vision, and MLOps pipelines**. I enjoy turning ideas into practical applications through research, experimentation, and continuous learning.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on **AI-powered applications and automation workflows**
+- 🌱 Learning **Advanced AI Agents, MLOps, and Cloud Technologies**
+- 🧠 Interested in **Generative AI, Computer Vision, and Data Science**
+- ⚡ Love solving problems through **technology and innovation**
+- 📚 Always improving my skills through projects and research
+
+---
+
+# 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
+![Dart](https://img.shields.io/badge/Dart-Flutter-blue?style=for-the-badge&logo=dart)
+![SQL](https://img.shields.io/badge/SQL-Database-black?style=for-the-badge&logo=mysql)
+
+---
+
+### 🤖 Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_AI-red?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai)
+
+---
+
+### 🧠 Machine Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer_Vision-blue?style=for-the-badge)
+
+---
+
+### ⚙️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MLflow](https://img.shields.io/badge/MLflow-ML_Tracking-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+---
+
+### 📊 Data Science & Tools
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Data-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge)
+
+---
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Generative+AI+Developer;Building+Intelligent+Systems" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
 </p>
 
+---
 
-<p align="center">
+# 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/musthak-ahamed/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
-
-<a href="https://github.com/musthak2001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-
-<a href="mailto:musthak2001ahamed@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
-
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 I am an **Information and Communication Technology (ICT) Undergraduate** passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
-
-I focus on designing and developing intelligent systems that combine **AI research with practical software solutions**.
-
-My main interests include:
-
-- 🤖 Generative AI Applications
-- 🧠 Large Language Models (LLMs)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🕸️ AI Agent Systems
-- 👁️ Computer Vision
-- ⚙️ MLOps and Cloud Deployment
-
-
-I enjoy building scalable solutions that transform ideas into real-world applications.
-
----
-
-# 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,dart,mysql&theme=dark&perline=5" />
-
-</p>
-
-<p align="center">
-
-<b>Python • Java • C • Dart • SQL</b>
-
-</p>
-
-
----
-
-# 🤖 Generative AI & AI Engineering
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<img src="https://img.shields.io/badge/LangChain-Framework-1C3C3A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-AI_Agents-6A0DAD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-Retrieval_AI-B00020?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/VLM-Vision_Language_Model-007ACC?style=for-the-badge"/>
-
-</p>
-
-
----
-
-# 🧠 Machine Learning & Computer Vision
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YOLOv8-Object_Detection-blue?style=for-the-badge"/>
-
-</p>
-
-
----
-
-# ⚙️ MLOps & DevOps
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,linux&theme=dark"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/MLflow-Experiment_Tracking-0194E2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus"/>
-
-<img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana"/>
-
-</p>
-
-
----
-
-# 📊 Data Science & Analytics
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-Analytics-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pydantic-Data_Validation-E92063?style=for-the-badge"/>
-
-</p>
-
-
----
-
-# 📌 Featured Expertise
-
-
-| Category | Technologies |
-| :--- | :--- |
-| 🤖 Generative AI | LangChain, LangGraph, RAG, OpenAI API, AI Agents |
-| 🧠 Machine Learning | TensorFlow, Scikit-learn, XGBoost |
-| 👁️ Computer Vision | YOLOv8, OpenCV |
-| ⚡ Backend Development | FastAPI, REST APIs |
-| 🚀 Deployment | Docker, Kubernetes, MLflow |
-| ☁️ Cloud | Azure |
-| 🔄 Automation | n8n Workflow Automation |
-
-
----
-
-# 📈 GitHub Analytics
-
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=musthak2001&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=musthak2001&theme=github-dark&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musthak2001&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🌐 Connect With Me
-
-
-<p align="center">
-
-<a href="https://github.com/musthak2001">
-<img src="https://img.shields.io/badge/GitHub-musthak2001-black?style=for-the-badge&logo=github"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/musthak-ahamed/">
-<img src="https://img.shields.io/badge/LinkedIn-Musthak_Ahamed-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
-
----
-
-<p align="center">
-
-⭐ <b>Building intelligent systems with AI and technology.</b> 🚀
-
-</p>
+⭐ **"Building intelligent solutions, one project at a time."**
