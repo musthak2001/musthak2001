@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 **ICT Undergraduate** | 🤖 **AI & Machine Learning Enthusiast** | 💻 **Software Developer**
+🎓 **ICT Undergraduate** | 🤖 **AI & Machine Learning t** | 💻 **Software Developer**
 
 I am passionate about building **intelligent, scalable, and data-driven applications** using **Artificial Intelligence, Generative AI, Machine Learning, and Software Engineering principles**.
 
